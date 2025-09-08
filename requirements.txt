@@ -4,4 +4,3 @@ streamlit
 openpyxl
 langgraph
 langchain-core
-smtplib
