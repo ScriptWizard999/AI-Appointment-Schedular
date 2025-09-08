@@ -1,0 +1,7 @@
+pandas
+faker
+streamlit
+openpyxl
+langgraph
+langchain-core
+smtplib
